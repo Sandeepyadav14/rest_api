@@ -1,0 +1,23 @@
+{
+  "name": "rest_api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sandeepyadav14/rest_api.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Sandeepyadav14/rest_api/issues"
+  },
+  "homepage": "https://github.com/Sandeepyadav14/rest_api#readme",
+  "dependencies": {
+    "json-server": "^0.17.1"
+  }
+}
